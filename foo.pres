@@ -1,0 +1,77 @@
+-- 
+
+ERLANG, OTP, BEAM, ELIXIR
+
+verteilt, robust, sicher, (soft-)realtime
+
+-- 
+
+* Erlang == Language
+* OTP    == Framework
+* BEAM   == VM
+* Elixir == Language (Ruby-y)
+
+* LFE (Lispy)
+* Erlog (Prology)
+* Haskerl
+* Luerl
+
+-- 
+
+HISTORY
+
+* Ericsson 1986
+* OSS 1998
+* Elixir 2011
+
+-- 
+
+FEATURES
+
+* Functional
+* Garbage collected
+* Strong dynamic typing
+
+-- 
+
+APPLICATIONS
+
+* Ericsson AXD 301 (1998, 2mio LOC, 99,9999999% uptime)
+  http://www.erlang.se/publications/ericsson_review_axd301_1998012.pdf
+* Whatsapp
+* RabbitMQ
+* CouchDB
+* Couchbase
+* Riak
+* SimpleDB (Amazon)
+* Ejabberd
+
+-- 
+
+BEAM FEATURES
+
+* Processes
+* Process linking
+* Message passing
+* No shared state
+* Local stack and heap
+* Fault tolerance
+* Supervisor tree
+** let-it-crash
+* Preemptive multitasking
+* Scalable
+* Pattern matching
+
+-- 
+
+* OTP
+* Framework for process patterns
+
+-- 
+
+* Elixir
+* UTF-8
+* Tooling
+** mix (build tool)
+
+-- 
